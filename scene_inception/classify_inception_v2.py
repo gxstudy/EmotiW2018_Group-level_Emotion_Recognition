@@ -11,7 +11,7 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 model_def = 'inception_deploy.prototxt'
 
-model_weights ="group_inception.caffemodel"
+model_weights ="scene_inception.caffemodel"
 
 mu = np.array([103, 108, 120])
 net = caffe.Classifier(model_def, model_weights,
