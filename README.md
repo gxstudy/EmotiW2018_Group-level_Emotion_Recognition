@@ -9,6 +9,7 @@
 6. Tensorflow: https://www.tensorflow.org/
 
 #################################Preprocesssing: ##############################
+
 Extract faces using MTCNN (https://github.com/kpzhang93/MTCNN_face_detection_alignment)
   1) Install MTCNN accroding to the above link into folder ./group_2018_code/preprocessing/MTCNN
   2) Put test images in ./group_2018_code/data/test folder
