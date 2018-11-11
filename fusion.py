@@ -35,7 +35,7 @@ print vgg_face_unpositive.shape
 #print face_vgg_avg_MTCNN_largeMargin_5_iter_1500_unpositive
 
 # load face vgg positive
-attention= np.load('./attention/test_attention_2_combine_probs.npy')
+attention= np.load('./attention/test_attention_probs.npy')
 print attention.shape
 #print attention
 
@@ -51,7 +51,7 @@ print senet50_face_unpositive.shape
 
 
 # load image senet
-scene_senet_preds= np.load('./scene_senet/scene_senet_preds_largemargin.npy')
+scene_senet_preds= np.load('./scene_senet/scene_senet_preds.npy')
 print scene_senet_preds.shape
 #print scene_senet_preds
 
