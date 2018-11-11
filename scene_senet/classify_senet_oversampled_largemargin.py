@@ -48,5 +48,5 @@ for iname in sorted(os.listdir(image_dir)):
     print scene_senet_preds[num_count]
     print features[num_count]
     num_count += 1  
-np.save('scene_senet_preds_largemargin.npy',scene_senet_preds)
+np.save('scene_senet_preds.npy',scene_senet_preds)
 #np.save('scene_senet_features_largemargin.npy',features)
