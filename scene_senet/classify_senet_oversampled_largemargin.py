@@ -11,7 +11,7 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 model_def = 'SE-ResNet-50_deploy_largemargin.prototxt'
 
-model_weights ="group_senet_face.caffemodel"
+model_weights ="group_senet_senet.caffemodel"
 
 mu = np.array([103, 108, 120])
 net = caffe.Classifier(model_def, model_weights,
