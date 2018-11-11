@@ -8,11 +8,6 @@
 5. Matlab R2015a
 6. Tensorflow: https://www.tensorflow.org/
 
-
-#################################Quick verification: ##############################
-1. Run python fusion.py in terminal, it will regenerate the file submit_7.npy, and the corresponding generated labels are in folder "7 - UD-ECE - Group". 
-
-#################################Throughtout verification: ##############################
 #################################Preprocesssing: ##############################
 1. Extract faces using MTCNN (https://github.com/kpzhang93/MTCNN_face_detection_alignment)
   1) Install MTCNN accroding to the above link into folder ./group_2018_code/preprocessing/MTCNN
