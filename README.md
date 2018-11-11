@@ -70,5 +70,27 @@ Extract skelton predictions
 ----------------------------------------------------------------------------------------------------------------------  
 
 python fusion.py, the resulting label will be saved in folder 7 - UD-ECE - Group.
+
 ----------------------------------------------------------------------------------------------------------------------  
 
+If you use any of the code, please cite the following paper:
+
+@inproceedings{Guo:2018:GER:3242969.3264990,
+ author = {Guo, Xin and Zhu, Bin and Polan\'{\i}a, Luisa F. and Boncelet, Charles and Barner, Kenneth E.},
+ title = {Group-Level Emotion Recognition Using Hybrid Deep Models Based on Faces, Scenes, Skeletons and Visual Attentions},
+ booktitle = {Proceedings of the 20th ACM International Conference on Multimodal Interaction},
+ series = {ICMI '18},
+ year = {2018},
+ isbn = {978-1-4503-5692-3},
+ location = {Boulder, CO, USA},
+ pages = {635--639},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/3242969.3264990},
+ doi = {10.1145/3242969.3264990},
+ acmid = {3264990},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {emotiw 2018, group-level emotion recognition, multi-model, scene understanding, visual attention},
+} 
+
+Thanks for your interest. 
