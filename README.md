@@ -2,11 +2,17 @@
 
 #################################Prerequisites##################################
 ubuntu 16.04
+
 Caffe: https://github.com/BVLC/caffe  (with cuda installed)
+
 Caffe-Senet (https://github.com/hujie-frank/SENet) 
+
 caffe_LargeMargin_Softmax_Loss (https://github.com/wy1iu/LargeMargin_Softmax_Loss) 
+
 Matlab R2015a
+
 Tensorflow: https://www.tensorflow.org/
+
 
 #################################Quick verification: ##############################
 1. Run python fusion.py in terminal, it will regenerate the file submit_7.npy, and the corresponding generated labels are in folder "7 - UD-ECE - Group". 
