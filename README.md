@@ -30,8 +30,9 @@ Extract attention paches using a bottom-up attention model (https://github.com/p
   6) Read all test features into a data file using build_dataset_test.py
   
 #################################Extract predictions ##############################
+Download trained caffemodels from https://drive.google.com/file/d/11ZhAuuCJzKqSr-RqeK9nX3HY26xVQpLr/view?usp=sharing
 
-From ./group_2018_code folder
+Then from ./group_2018_code folder, extract predictions as follows. 
 
 Extract predictions for vgg faces
   1) cd face_vgg
