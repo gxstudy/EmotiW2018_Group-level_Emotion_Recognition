@@ -85,7 +85,7 @@ If you use any of the code, please cite the following paper:
  location = {Boulder, CO, USA},\
  pages = {635--639},\
  numpages = {5},\
- url = {http://doi.acm.org/10.1145/3242969.3264990},\
+ url = {http://doi.acm.org/10.1145/3242969.3264990},
  doi = {10.1145/3242969.3264990},\
  acmid = {3264990},\
  publisher = {ACM},\
