@@ -1,17 +1,12 @@
 # EmotiW2018_Group-level_Emotion_Recognition
 
 #################################Prerequisites##################################
-ubuntu 16.04
-
-Caffe: https://github.com/BVLC/caffe  (with cuda installed)
-
-Caffe-Senet (https://github.com/hujie-frank/SENet) 
-
-caffe_LargeMargin_Softmax_Loss (https://github.com/wy1iu/LargeMargin_Softmax_Loss) 
-
-Matlab R2015a
-
-Tensorflow: https://www.tensorflow.org/
+1. ubuntu 16.04
+2. Caffe: https://github.com/BVLC/caffe  (with cuda installed)
+3. Caffe-Senet (https://github.com/hujie-frank/SENet) 
+4. caffe_LargeMargin_Softmax_Loss (https://github.com/wy1iu/LargeMargin_Softmax_Loss) 
+5. Matlab R2015a
+6. Tensorflow: https://www.tensorflow.org/
 
 
 #################################Quick verification: ##############################
