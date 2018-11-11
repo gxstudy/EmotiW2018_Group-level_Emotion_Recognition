@@ -10,9 +10,9 @@
 
 #################################Preprocesssing: ##############################
 1. Extract faces using MTCNN (https://github.com/kpzhang93/MTCNN_face_detection_alignment)
-  1) Install MTCNN accroding to the above link into folder ./group_2018_code/preprocessing/MTCNN
-  2) Put test images in ./group_2018_code/data/test folder
-  2) Under ./group_2018_code/preprocessing folder, change corresponding path in file MTCNN_face_detect_align.m and run it using Matlab, the extracted faces will be stored in folder ./group_2018_code/data/test_faces_MTCNN
+  (1) Install MTCNN accroding to the above link into folder ./group_2018_code/preprocessing/MTCNN
+  (2) Put test images in ./group_2018_code/data/test folder
+  (3) Under ./group_2018_code/preprocessing folder, change corresponding path in file MTCNN_face_detect_align.m and run it using Matlab, the extracted faces will be stored in folder ./group_2018_code/data/test_faces_MTCNN
   
 2. Human skeleton features extraction using openpose from https://github.com/CMU-Perceptual-Computing-Lab/openpose
   1) Install openpose from link above, save openpose in folder ./group_2018_code/preprocessing/openpose-master. 
